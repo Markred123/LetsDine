@@ -72,15 +72,15 @@
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.letsdineapp.letsdineapp.Main3Activity"
+            android:name="com.example.letsdineapp.letsdineapp.location"
             android:label="Main3Activity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.letsdineapp.letsdineapp.Main4Activity"
+            android:name="com.example.letsdineapp.letsdineapp.search"
             android:label="Main4Activity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.letsdineapp.letsdineapp.Main5Activity"
+            android:name="com.example.letsdineapp.letsdineapp.view"
             android:label="Main5Activity"
             android:theme="@style/AppTheme.NoActionBar" />
 
