@@ -4,7 +4,7 @@
             "outputFile": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.2.aar\\d4861c853d81e37ec05ccf266bd40b03\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.2.aar\\41f1f30199b983ee86e1746a7f7ed6ce\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\36704ae0a3ef7bcbbfae0d17d23b106f\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\8fa712995155dd8f473851ec5aa5e4a2\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
