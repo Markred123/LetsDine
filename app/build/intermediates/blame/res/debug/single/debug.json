@@ -240,10 +240,6 @@
         "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9eed9a31b0a8ae2e4cf25b36c7a9de62\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main2.xml.flat",
-        "source": "C:\\Android App\\LetsDine-master\\app\\src\\main\\res\\layout\\content_main2.xml"
-    },
-    {
         "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_powered_by_google_dark.png.flat",
         "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.8.0.aar\\f8d8f11c6cbefd0bbeb0f90b786bdcff\\res\\drawable-xxhdpi-v4\\powered_by_google_dark.png"
     },
@@ -376,10 +372,6 @@
         "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\8fa712995155dd8f473851ec5aa5e4a2\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main2.xml.flat",
-        "source": "C:\\Android App\\LetsDine-master\\app\\src\\main\\res\\layout\\app_bar_main2.xml"
-    },
-    {
         "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\8fa712995155dd8f473851ec5aa5e4a2\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
@@ -482,10 +474,6 @@
     {
         "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\8fa712995155dd8f473851ec5aa5e4a2\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_searchactivity.xml.flat",
-        "source": "C:\\Android App\\LetsDine-master\\app\\src\\main\\res\\layout\\searchactivity.xml"
     },
     {
         "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -638,10 +626,6 @@
     {
         "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_powered_by_google_dark.png.flat",
         "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.8.0.aar\\f8d8f11c6cbefd0bbeb0f90b786bdcff\\res\\drawable-mdpi-v4\\powered_by_google_dark.png"
-    },
-    {
-        "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main2.xml.flat",
-        "source": "C:\\Android App\\LetsDine-master\\app\\src\\main\\res\\layout\\nav_header_main2.xml"
     },
     {
         "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -1142,10 +1126,6 @@
     {
         "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
         "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.31.0.aar\\2278f77f412a7192605e75c46887bc2b\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png"
-    },
-    {
-        "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_searchcontent.xml.flat",
-        "source": "C:\\Android App\\LetsDine-master\\app\\src\\main\\res\\layout\\searchcontent.xml"
     },
     {
         "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v21_abc_btn_colored_borderless_text_material.xml.flat",
@@ -2116,6 +2096,10 @@
         "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.31.0.aar\\2278f77f412a7192605e75c46887bc2b\\res\\drawable-mdpi-v4\\com_facebook_profile_picture_blank_square.png"
     },
     {
+        "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "C:\\Android App\\LetsDine-master\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
         "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
         "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9eed9a31b0a8ae2e4cf25b36c7a9de62\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
@@ -2314,9 +2298,5 @@
     {
         "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_powered_by_google_light.png.flat",
         "source": "C:\\Users\\arnas\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.8.0.aar\\f8d8f11c6cbefd0bbeb0f90b786bdcff\\res\\drawable-xhdpi-v4\\powered_by_google_light.png"
-    },
-    {
-        "merged": "C:\\Android App\\LetsDine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
-        "source": "C:\\Android App\\LetsDine-master\\app\\src\\main\\res\\layout\\activity_main2.xml"
     }
 ]

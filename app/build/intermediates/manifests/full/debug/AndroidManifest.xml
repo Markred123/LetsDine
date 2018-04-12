@@ -9,8 +9,8 @@
         android:targetSdkVersion="26" />
 
     <uses-permission android:name="android.permission.INTERNET" />
-
-    <!-- Include required permissions for Google Maps API to run. -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <uses-feature
@@ -47,8 +47,14 @@
         </activity>
 
         <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAOQzChkWpxRauyHq_fzt30coOGrj84yn4" />
+        <meta-data
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
 
         <activity
             android:name="com.facebook.FacebookActivity"
@@ -68,10 +74,6 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.letsdineapp.letsdineapp.Main2Activity"
-            android:label="@string/title_activity_main2"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name="com.example.letsdineapp.letsdineapp.location"
             android:label="Main3Activity"
             android:theme="@style/AppTheme.NoActionBar" />
@@ -83,6 +85,7 @@
             android:name="com.example.letsdineapp.letsdineapp.view"
             android:label="Main5Activity"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.letsdineapp.letsdineapp.MapActivity" />
 
         <meta-data
             android:name="android.support.VERSION"
@@ -172,10 +175,6 @@
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:exported="false"
             android:theme="@android:style/Theme.Translucent" />
-
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
     </application>
 
 </manifest>
