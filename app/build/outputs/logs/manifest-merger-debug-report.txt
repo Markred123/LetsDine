@@ -260,7 +260,7 @@ ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:55:17
 activity#com.example.letsdineapp.letsdineapp.location
 ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:58:9-61:68
 	android:label
-		ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:60:13-42
+		ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:60:13-37
 	android:theme
 		ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:61:13-56
 	android:name
@@ -268,7 +268,7 @@ ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:58:9-
 activity#com.example.letsdineapp.letsdineapp.search
 ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:62:9-65:68
 	android:label
-		ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:64:13-42
+		ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:64:13-35
 	android:theme
 		ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:65:13-56
 	android:name
@@ -276,7 +276,7 @@ ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:62:9-
 activity#com.example.letsdineapp.letsdineapp.view
 ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:66:9-69:68
 	android:label
-		ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:68:13-42
+		ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:68:13-33
 	android:theme
 		ADDED from C:\Android App\LetsDine-master\app\src\main\AndroidManifest.xml:69:13-56
 	android:name

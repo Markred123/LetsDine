@@ -75,15 +75,15 @@
         </activity>
         <activity
             android:name="com.example.letsdineapp.letsdineapp.location"
-            android:label="Main3Activity"
+            android:label="location"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.example.letsdineapp.letsdineapp.search"
-            android:label="Main4Activity"
+            android:label="search"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.example.letsdineapp.letsdineapp.view"
-            android:label="Main5Activity"
+            android:label="view"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.example.letsdineapp.letsdineapp.MapActivity" />
 
